@@ -1,0 +1,10 @@
+{
+  "description": "A responsive platform for learning and practicing C programming, offering structured modules, quizzes, and coding challenges without user accounts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
